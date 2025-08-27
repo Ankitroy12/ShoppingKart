@@ -38,4 +38,3 @@ A simple shopping list application built using **Kotlin** and **Jetpack Compose*
    
 ---
 
-## 📸 Screenshots
