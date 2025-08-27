@@ -2,6 +2,11 @@
 
 A simple shopping list application built using **Kotlin** and **Jetpack Compose**, following **MVVM architecture** with **Room Database** for local data storage.
 
+<p align="center">
+  <img src="screenshots/AppIcon.jpg" alt="App Screenshot" width="300"/>
+  <img src="screenshots/AppOver.jpg" alt="App Screenshot" width="300"/>
+</p>
+
 ---
 
 ## ✅ Features
